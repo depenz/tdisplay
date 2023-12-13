@@ -7,5 +7,9 @@
     "url": "https://github.com/depenz/tdisplay.git"
   },
   "platforms": "espressif32",
-  "src": ["tdisplay.c", "tdisplay.h"]
+  "headers": "tdisplay.h",
+  "src": ["tdisplay.c", "tdisplay.h"],
+  "build": {
+    "srcDir": "."
+  }
 }
