@@ -7,5 +7,5 @@
     "url": "https://github.com/depenz/tdisplay.git"
   },
   "platforms": "espressif32",
-  "src": ["tdisplay.c"]
+  "src": ["tdisplay.c", "tdisplay.h"]
 }
