@@ -1,9 +1,10 @@
 {
   "name": "tdisplay",
   "version": "0.1.0",
-  "headers": "tdisplay.h",
   "frameworks": "arduino",
-  "platforms": "espressif32",
-  "url": "https://github.com/depenz/tdisplay",
-  "src": "tdisplay.c"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/depenz/tdisplay.git"
+  },
+  "platforms": "espressif32"
 }
