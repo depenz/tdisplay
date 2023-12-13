@@ -6,5 +6,6 @@
     "type": "git",
     "url": "https://github.com/depenz/tdisplay.git"
   },
-  "platforms": "espressif32"
+  "platforms": "espressif32",
+  "src": "tdisplay.c"
 }
