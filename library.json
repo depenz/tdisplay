@@ -4,6 +4,6 @@
   "headers": "tdisplay.h",
   "frameworks": "arduino",
   "platforms": "espressif32",
-  "url": "https://github.com/depenz/tdisplay"
+  "url": "https://github.com/depenz/tdisplay",
   "src": "tdisplay.c"
 }
