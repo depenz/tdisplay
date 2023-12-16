@@ -7,7 +7,7 @@ void myFunction()
     printf("Hello from myFunction!\n");
 }
 
-int newFunction()
+int tFunction()
 {
     return (int)6;
 }
