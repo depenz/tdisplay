@@ -3,6 +3,6 @@
 #define TDISPLAY_H
 
 void myFunction();
-int newFunction();
+int tFunction();
 
 #endif // TDISPLAY_H
